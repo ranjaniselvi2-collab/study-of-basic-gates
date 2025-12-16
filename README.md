@@ -92,6 +92,5 @@ endmodule
 <img width="1915" height="466" alt="Screenshot 2025-12-16 153913" src="https://github.com/user-attachments/assets/7a85415d-6aa3-434c-8cc1-a0042e76b7c9" />
 
 **Result:**
-```
+
 Thus the different digital IC's are studied and truthtable for different logic gates are verified
-```
